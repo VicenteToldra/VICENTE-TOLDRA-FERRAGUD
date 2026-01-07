@@ -1,0 +1,7 @@
+{
+  "name": "Cabo La Nao Diving Center",
+  "description": "A premium, high-performance web application for a Mediterranean diving center, featuring course listings, dive spot guides, and an AI-powered diving assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
